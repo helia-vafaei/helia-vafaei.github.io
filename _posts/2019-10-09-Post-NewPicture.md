@@ -3,7 +3,7 @@ layout: posts
 title: My new picture
 ---
 
-## This is 
+## The first photo is related to the university and the second photo is related to the computer college at Iran University of Science and Technology.
 
 
 
@@ -12,12 +12,11 @@ title: My new picture
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+I hope disease Covid_19 goes away until I can go to university.
 
 
 
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+

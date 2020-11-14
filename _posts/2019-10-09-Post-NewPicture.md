@@ -3,12 +3,12 @@ layout: posts
 title: My new picture
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is 
+
+
+
+
+
 
 [my favorite website](http://www.google.com)
 

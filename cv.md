@@ -11,20 +11,20 @@ comments: false
 
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
+|2016|2017| **Honory repoter**, print a poem in the newspaper |
 |----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
+|2015|2016| **Tebian festival**, earn position in competition |
 |----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2020|  now    | **Programming**, in learning status at the University of Science and Technology with the Vs code program  |
 |----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
+
 
 
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2016 |2019| **Diploma**, in the field of mathemematics |
 |-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2020 |now| **Bachelor**, studing at the University of Science and Technology  |
 |-----|----|----------------------------------------------------------------------------------|
 

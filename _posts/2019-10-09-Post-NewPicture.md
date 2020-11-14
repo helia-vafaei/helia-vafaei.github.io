@@ -16,7 +16,7 @@ I hope disease Covid_19 goes away until I can go to university.
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
-
+![alt text](../assets/images/blog.jpg)
+![alt text](../assets/images/blog2.jpg)
 ---
 

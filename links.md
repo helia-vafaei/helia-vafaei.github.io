@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Author](http://www.baazhbook.com/)
+* [Places I want to visit](http://en.wikipedia.org/wiki/Paris)
+* [My home city](http://en.wikipedia.org/wiki/Tehran)
+* [My university](http://www.iust.ac.ir/)
 

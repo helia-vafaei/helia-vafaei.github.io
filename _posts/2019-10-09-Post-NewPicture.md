@@ -10,7 +10,7 @@ title: My new picture
 
 
 
-[my favorite website](http://www.google.com)
+
 
 I hope disease Covid_19 goes away until I can go to university.
 

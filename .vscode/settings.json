@@ -1,3 +1,9 @@
 {
-    "deepcode.review.results.hideInformationIssues": false
+    "deepcode.review.results.hideInformationIssues": false,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }

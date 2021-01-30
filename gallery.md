@@ -23,10 +23,6 @@ gallery:
     image_path: /assets/images/fhoto4 .JPG
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-  - url: /assets/images/۲۰۱۹۱۱۳۰_۲۰f۵۸۴۴.jpg
-    image_path: /assets/images/۲۰۱۹۱۱۳۰_۲۰f۵۸۴۴.jpg
-    alt: "placeholder image 1"
-    title: "Image 5 title caption"
    
 ---
 

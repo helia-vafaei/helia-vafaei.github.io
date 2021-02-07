@@ -13,7 +13,7 @@ title: Project song
 <body>
 
 <audio controls>
-  <source src="C:\git\Fc99001\sonic pi\song.wav" type="audio">
+  <source src="C:\git\Fc99001\sonic pi\song.wav" type="audio/wav">
 </audio>
 
 </body>

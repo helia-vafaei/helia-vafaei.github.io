@@ -7,7 +7,6 @@ title: My Hokthon Project
 <br>
 
 * [my sebsite](http://99522347.pythonanywhere.com/blog/modernform/)
-
 ![alt text](../assets/images/proj2.jpg)
-
 ---
+

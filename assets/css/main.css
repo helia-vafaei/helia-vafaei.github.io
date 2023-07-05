@@ -1515,7 +1515,7 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: rgba(245, 106, 106, 0.05); }
+    background-color: rgba(245, 106, 106, 0.05) !important; }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
@@ -2307,5 +2307,20 @@ button,
 .me{
   width: 70% !important;
   /* height: 110% !important; */
+}
+
+.hover:hover{
+  background-color: #f56a6a !important;
+  color: white !important;
+}
+
+.svm{
+  margin-top: -7% !important;
+  margin-bottom: -6% !important;
+}
+
+.new-line {
+  margin-top: 14%;
+  margin-left: -96%;
 }
 

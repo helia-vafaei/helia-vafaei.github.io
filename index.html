@@ -30,7 +30,6 @@
     width: 110% !important;
 }
 
-
 .me{
     width: 70% !important;
 }
@@ -48,6 +47,17 @@
 .new-line {
 	margin-top: 14%;
 	margin-left: -96%;
+}
+
+.actions-buttons{
+	list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.actions-buttons li {
+    margin-bottom: 10px; 
 }
 	</style>
 	<body class="is-preload">
@@ -289,11 +299,9 @@
 											<div class="image"><img src="images/no-waste-3.png" alt="NoWaste site"/></div>
 											<h3>NoWaste site</h3>
 											<p>This project has been developed as a 6-member team project with expertise in front-end and back-end development. In this project, restaurants offer their food with desired discounts for sale. Users can access the page of a restaurant by viewing the restaurants, add their desired food to the shopping cart by viewing its menu, and make online payments. They can then rate the restaurant, leave comments, and add the restaurant to their favorites list. Finally, users can use the chat page between themselves and the restaurant manager to address their questions.</p>
-											<ul class="actions">
+											<ul class="actions-buttons">
 												<li><a target="_blank" href="https://github.com/helia-vafaei/online_food_ordering_front-end" class="button hover">See the front-end code</a></li>
 												<li><a target="_blank" href="https://github.com/helia-vafaei/online_food_ordering_back-end" class="button hover">See the back-end code</a></li>
-												
-												<li class="new-line"><a target="_blank" href="http://99522347.pythonanywhere.com/modernform/" class="button hover">See the site</a></li>
 											</ul>
 										</article>
 
@@ -304,6 +312,57 @@
 											<ul class="actions">
 												<li><a target="_blank" href="https://github.com/helia-vafaei/django_project_website" class="button hover">See the code</a></li>
 												<li><a target="_blank" href="http://99522347.pythonanywhere.com/modernform/" class="button hover">See the site</a></li>
+											</ul>
+										</article>
+
+										<article>
+											<div class="image game-snake"><img src="images/Retrieving information1.png" alt="Retrieving information" /></div>
+											<div class="image game-snake"><img src="images/Retrieving information2.png" alt="Retrieving information" /></div>
+											<h3>Retrieving information from the victim device</h3>
+											<p class="mb-0">I wrote a program in Bash on Linux to perform the following tasks:
+												<br>
+												The program should be able to take an IP class as input, and it focuses on that class, and then teste all available IP addresses in that IP class. It's worth mentioning that this program is executed at one or more specific points in the network.
+												<br>
+												To finding open ports numbers, I tried to familiarize myself with Linux commands in this area and use them, after that I find open port numbers and save them in a CSV file.
+												<br>
+												I cennect to discovered devices and test a list of common usernames and passwords, then I read this list from a CSV file located next to the program.
+												<br>
+												Once connected to the victim device, I attempted to place the second Bash script on it. For simplicity, I assumed that I have root access. The second program on the victim device retrieves various information, such as system information, memory information, and CPU model, at specified intervals and sends it to the server.
+												<br>
+												On the server, I also wrote a program to display the received information in a web-based application. For this task, I created a simple backend and frontend.
+											</p>
+											<ul class="actions">
+												<li><a target="_blank" href="https://github.com/helia-vafaei/computer_system_security_project?tab=readme-ov-file" class="button hover">See the code</a></li>
+												<li><a target="_blank" href="https://securityfirstproject.pythonanywhere.com/get-info/" class="button hover">See the site</a></li>
+											</ul>
+										</article>
+
+										<article>
+											<div class="image game-snake"><img src="images/Software quality.JPG" alt="Software quality measurement and its quantification" /></div>
+											<h3>Software quality measurement and its quantification</h3>
+											<p class="mb-0">
+												By running this project, the quality of a software can be measured quantitatively. In the software quality article, factors are presented that depend on a number of criteria, but the criteria is qualitative, so we use a number of metrics to achieve a quantity.
+												<br>
+												The implemented metrics are:
+												<br>
+												Albrecht’s Function Points Metrics
+												<br>
+												Metrics-Based Estimation Models (COCOMO Mode)
+												<br>
+												Ejiogu’s Software Metrics
+												<br>
+												Halstead’s Software Metrics
+												<br>
+												Henry and Kafura’s Information Metrics
+												<br>
+												McCabe’s Cyclomatic complexity metrics
+												<br>
+												Readability Metrics
+												<br>
+												Reliability Metrics
+											</p>
+											<ul class="actions">
+												<li><a target="_blank" href="https://github.com/helia-vafaei/software_quality_measurement_and_its_quantification" class="button hover">See the code</a></li>
 											</ul>
 										</article>
 
@@ -404,7 +463,17 @@
 									<h3>Taching Assistant</h3>
 
 									<ul>
-										<li>Jan 2023 - Jun 2023 · 6 mos
+										<li>Jan 2023 - Jun 2023 · 4 mos
+											<ul style="list-style-type: circle;">
+												<li>Course: Artificial intelligence</li>
+												<li>Instructor: <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Z5PQYPgAAAAJ">Dr. Arash Abdi</a></li>
+												<li>Semester: Fall 2023</li>
+											</ul>
+										</li>
+									</ul>
+									
+									<ul>
+										<li>Feb 2023 - Sep 2023 · 8 mos
 											<ul style="list-style-type: circle;">
 												<li>Course: Database disign</li>
 												<li>Instructor: <a target="_blank" href="https://scholar.google.com/citations?user=QG0zenkAAAAJ&hl=en">Dr. Hossein Rahmani</a></li>
@@ -426,7 +495,7 @@
 
 
 									<ul>
-										<li>Feb 2022 - Jul 2023 · 6 mos
+										<li>Feb 2022 - Jul 2022 · 6 mos
 											<ul style="list-style-type: circle;">
 												<li>Course: Advanced Computer Programming</li>
 												<li>Instructor: <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Q25s5KkAAAAJ">Dr. Sauleh Eetemadi</a></li>
@@ -437,7 +506,7 @@
 
 
 									<ul>
-										<li>Sep 2021 - Jan 2023 · 5 mos
+										<li>Sep 2021 - Jan 2022 · 5 mos
 											<ul style="list-style-type: circle;">
 												<li>Course: Fundamentals of Computer Programming</li>
 												<li>Instructor: <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Q25s5KkAAAAJ">Dr. Sauleh Eetemadi</a></li>

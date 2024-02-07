@@ -2278,37 +2278,6 @@ button,
   margin: 0 1.5% ;
 }
 
-.center-img {
-  display: flex !important;
-  justify-content: center ;
-  align-items: center ;
-}
-
-.game-padel {
-  width: 76% !important;
-}
-
-.game-snake , .song {
-  width: 80% !important;
-}
-
-.db{
-  width: 88% !important;
-}
-
-.django{
-  width: 110% !important;
-}
-
-.interview{
-  width: 55% !important;
-}
-
-.me{
-  width: 70% !important;
-  /* height: 110% !important; */
-}
-
 .hover:hover{
   background-color: #f56a6a !important;
   color: white !important;
@@ -2322,5 +2291,5 @@ button,
 .new-line {
   margin-top: 14%;
   margin-left: -96%;
-}
+} 
 

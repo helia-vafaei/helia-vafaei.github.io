@@ -8,6 +8,12 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 
+	<style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -518,7 +524,22 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-			
+		<script>
+			const smoothScrollLinks = document.querySelectorAll('a[href^="#"]');
+			smoothScrollLinks.forEach(link => {
+				link.addEventListener('click', function(e) {
+					e.preventDefault(); 
+					const targetId = this.getAttribute('href').substring(1); 
+					const targetElement = document.getElementById(targetId);
+	
+					if (targetElement) {
+						targetElement.scrollIntoView({
+							behavior: 'smooth' 
+						});
+					}
+				});
+			});
+		</script>		
 
 	</body>
 </html>

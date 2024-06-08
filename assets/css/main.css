@@ -1715,10 +1715,11 @@ button,
         width: 6em; }
         .features article .icon:before {
           font-size: 1.5rem; }
-        .features article .icon:after {
+        /* .features article .icon:after {
           height: 4em;
           margin: -2em 0 0 -2em;
-          width: 4em; } }
+          width: 4em; }  */
+        }
   @media screen and (max-width: 480px) {
     .features article .icon:before {
       font-size: 1.25rem; } }
@@ -1940,8 +1941,8 @@ button,
     width: 26em; }
     #sidebar > .inner > * {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-      margin: 0 0 3.5em 0;
-      padding: 0 0 3.5em 0; }
+      margin: 0 0 2.5em 0;
+      padding: 0 0 2.5em 0; }
       #sidebar > .inner > * > :last-child {
         margin-bottom: 0; }
       #sidebar > .inner > *:last-child {
@@ -2293,3 +2294,47 @@ button,
   margin-left: -96%;
 } 
 
+@media (max-width: 814px) {
+  .content h3 {
+      display: none !important;
+  }
+}  
+
+@media screen and (max-width: 424px) {
+  .features article .icon:after {
+    border: none;
+  }
+}
+
+.center-img {
+	display: flex !important;
+	justify-content: center ;
+	align-items: center ;
+}
+
+.game-padel {
+	width: 76% !important;
+}
+
+.game-snake , .song {
+    width: 80% !important;
+}
+
+.db{
+    width: 88% !important;
+}
+
+.me{
+    width: 70% !important;
+}
+
+.actions-buttons{
+	list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.actions-buttons li {
+    margin-bottom: 10px; 
+}

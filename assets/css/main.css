@@ -2284,11 +2284,6 @@ button,
   color: white !important;
 }
 
-.svm{
-  margin-top: -7% !important;
-  margin-bottom: -6% !important;
-}
-
 .new-line {
   margin-top: 14%;
   margin-left: -96%;
@@ -2316,6 +2311,14 @@ button,
 	width: 76% !important;
 }
 
+.svm{
+  width: 88% !important;
+}
+
+.software-quality{
+  width: 95% !important;
+}
+
 .game-snake , .song {
     width: 80% !important;
 }
@@ -2337,4 +2340,8 @@ button,
 
 .actions-buttons li {
     margin-bottom: 10px; 
+}
+
+body {
+  background-color: rgb(240 240 240);
 }

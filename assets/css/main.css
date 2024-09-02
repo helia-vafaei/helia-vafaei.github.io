@@ -1102,7 +1102,7 @@ input[type="radio"] {
   input[type="checkbox"] + label,
   input[type="radio"] + label {
     text-decoration: none;
-    color: #7f888f;
+    color: #353a3e;
     cursor: pointer;
     display: inline-block;
     font-size: 1em;
@@ -1900,7 +1900,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #7f888f;
+    color: #353a3e;
     content: '\f002';
     cursor: default;
     display: block;
@@ -2055,7 +2055,7 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #7f888f;
+        color: #353a3e;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
